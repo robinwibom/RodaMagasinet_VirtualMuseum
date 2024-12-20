@@ -33,7 +33,7 @@ The final reconstructed building and recolored images were integrated into a **v
 
 ---
 
-## How to Use
+## How to Use [NOTE: Currenlty doesn't work]
 1. Download Demo/Windows/RM_Basic
 2. Run RM_Museum.exe
 
